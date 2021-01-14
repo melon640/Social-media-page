@@ -1,0 +1,41 @@
+body {background-color: #40e384;}
+.sections {
+    display: flex;
+    justify-content: space-around;
+    background-color:silver;
+    margin: 3px;
+    padding: 1px;
+    border: 12px cyan groove;
+}
+.image
+{
+       display: flex;
+    justify-content: space-around;
+     background-color:red;
+     margin: 13px;
+    padding: .7px;
+    border: 6px yellow dotted;
+}
+img {
+  width: 250px;  
+}
+.a{
+    background-color: lime;
+    color: black;
+    font-size: 24px;
+}
+.b{
+    background-color: #e7eb1e;
+    color: black;
+    font-size: 24px;
+}
+.c{
+    background-color: gray;
+    color: black;
+    font-size: 24px;
+}
+.d{
+    background-color: orange;
+    color: black;
+    font-size: 24px;
+}
